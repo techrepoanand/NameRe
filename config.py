@@ -8,7 +8,7 @@ API_HASH = os.environ.get("API_HASH", "93694f0328daa5b515c9523a0d0dd86d")
 
 BOT_TOKEN = os.environ.get("BOT_TOKEN", "") 
 
-FORCE_SUB = os.environ.get("FORCE_SUB", "") 
+FORCE_SUB = os.environ.get("FORCE_SUB", "renameforce") 
 
 DB_NAME = os.environ.get("DB_NAME","")     
 
